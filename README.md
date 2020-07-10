@@ -19,6 +19,12 @@ Contributions are welcome!
 - [Google Style Guide](https://github.com/google/styleguide)
 [![GitHub stars](https://img.shields.io/github/stars/google/styleguide.svg?style=social&label=Star&maxAge=2592000)](https://github.com/google/styleguide/stargazers/)
 
+
+### Roadmaps
+- [100 Days of ML code](https://github.com/Avik-Jain/100-Days-Of-ML-Code)
+[![GitHub stars](https://img.shields.io/github/stars/Avik-Jain/100-Days-Of-ML-Code.svg?style=social&label=Star&maxAge=2592000)](https://github.com/Avik-Jain/100-Days-Of-ML-Code/stargazers/)
+
+
 ### Hacker
 - [Wordlists](https://github.com/ZephrFish/Wordlists)
 [![GitHub stars](https://img.shields.io/github/stars/ZephrFish/Wordlists.svg?style=social&label=Star&maxAge=2592000)](https://github.com/ZephrFish/Wordlists/stargazers/)
@@ -53,11 +59,34 @@ Contributions are welcome!
 [![GitHub stars](https://img.shields.io/github/stars/lei-hsia/grokking-system-design.svg?style=social&label=Star&maxAge=2592000)](https://github.com/lei-hsia/grokking-system-design/stargazers/)
 
 
-### Books
+### Algorithms
 - [Free Algorithm Books](https://github.com/ivanarandac/Free-Algorithm-Books-1)
 [![GitHub stars](https://img.shields.io/github/stars/ivanarandac/Free-Algorithm-Books-1.svg?style=social&label=Star&maxAge=2592000)](https://github.com/ivanarandac/Free-Algorithm-Books-1/stargazers/)
+
+
+### ML
+- [ML with Illustrative visuals](https://github.com/madewithml/basics)
+[![GitHub stars](https://img.shields.io/github/stars/madewithml/basics.svg?style=social&label=Star&maxAge=2592000)](https://github.com/madewithml/basics/stargazers/)
 
 
 ### Awesome Repositories
 - [Resume with Github](https://github.com/resume/resume.github.com)
 [![GitHub stars](https://img.shields.io/github/stars/resume/resume.github.com.svg?style=social&label=Star&maxAge=2592000)](https://github.com/resume/resume.github.com/stargazers/)
+
+- [Scrape Twitter: twint](https://github.com/twintproject/twint)
+[![GitHub stars](https://img.shields.io/github/stars/twintproject/twint.svg?style=social&label=Star&maxAge=2592000)](https://github.com/twintproject/twint/stargazers/)
+
+
+### Hacker Awesome Repositories
+- [PENTESTING BIBLE](https://github.com/blaCCkHatHacEEkr/PENTESTING-BIBLE)
+[![GitHub stars](https://img.shields.io/github/stars/blaCCkHatHacEEkr/PENTESTING-BIBLE.svg?style=social&label=Star&maxAge=2592000)](https://github.com/blaCCkHatHacEEkr/PENTESTING-BIBLE/stargazers/)
+
+- [OSINT Collection](https://github.com/Ph055a/OSINT_Collection)
+[![GitHub stars](https://img.shields.io/github/stars/Ph055a/OSINT_Collection.svg?style=social&label=Star&maxAge=2592000)](https://github.com/Ph055a/OSINT_Collection/stargazers/)
+
+- [OSINT Phone Numbers](https://github.com/sundowndev/PhoneInfoga)
+[![GitHub stars](https://img.shields.io/github/stars/sundowndev/PhoneInfoga.svg?style=social&label=Star&maxAge=2592000)](https://github.com/sundowndev/PhoneInfoga/stargazers/)
+
+- [OSINT Social Media: Sherlock](https://github.com/sherlock-project/sherlock)
+[![GitHub stars](https://img.shields.io/github/stars/sherlock-project/sherlock.svg?style=social&label=Star&maxAge=2592000)](https://github.com/sherlock-project/sherlock/stargazers/)
+
