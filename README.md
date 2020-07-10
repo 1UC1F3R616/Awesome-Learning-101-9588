@@ -6,7 +6,7 @@
 
 I have curated a list of useful learning resources to keep myself busy
 
-Contributions are welcome!
+Contributions are welcome❕ 🌟 and 🍴 it❕
 
 <br /><br />
 ### Style Guides
