@@ -8,7 +8,7 @@ I have curated a list of useful learning resources to keep myself busy
 
 Contributions are welcome!
 
-
+</br></br>
 ### Style Guides
 - [Javascript Style Guide](https://github.com/airbnb/javascript)
 [![GitHub stars](https://img.shields.io/github/stars/airbnb/javascript.svg?style=social&label=Star&maxAge=2592000)](https://github.com/airbnb/javascript/stargazers/)
@@ -19,7 +19,7 @@ Contributions are welcome!
 - [Google Style Guide](https://github.com/google/styleguide)
 [![GitHub stars](https://img.shields.io/github/stars/google/styleguide.svg?style=social&label=Star&maxAge=2592000)](https://github.com/google/styleguide/stargazers/)
 
-
+</br></br>
 ### Roadmaps
 - [100 Days of ML code](https://github.com/Avik-Jain/100-Days-Of-ML-Code)
 [![GitHub stars](https://img.shields.io/github/stars/Avik-Jain/100-Days-Of-ML-Code.svg?style=social&label=Star&maxAge=2592000)](https://github.com/Avik-Jain/100-Days-Of-ML-Code/stargazers/)
@@ -30,7 +30,7 @@ Contributions are welcome!
 - [Web Developer Roadmap](https://github.com/kamranahmedse/developer-roadmap)
 [![GitHub stars](https://img.shields.io/github/stars/kamranahmedse/developer-roadmap.svg?style=social&label=Star&maxAge=2592000)](https://github.com/kamranahmedse/developer-roadmap/stargazers/)
 
-
+</br></br>
 ### Hacker
 - [Wordlists](https://github.com/ZephrFish/Wordlists)
 [![GitHub stars](https://img.shields.io/github/stars/ZephrFish/Wordlists.svg?style=social&label=Star&maxAge=2592000)](https://github.com/ZephrFish/Wordlists/stargazers/)
@@ -59,7 +59,7 @@ Contributions are welcome!
 - [Open Redirect Payloads](https://github.com/cujanovic/Open-Redirect-Payloads)
 [![GitHub stars](https://img.shields.io/github/stars/cujanovic/Open-Redirect-Payloads.svg?style=social&label=Star&maxAge=2592000)](https://github.com/cujanovic/Open-Redirect-Payloads/stargazers/)
 
-
+</br></br>
 ### System Design
 - [Grokking System Design](https://github.com/lei-hsia/grokking-system-design)
 [![GitHub stars](https://img.shields.io/github/stars/lei-hsia/grokking-system-design.svg?style=social&label=Star&maxAge=2592000)](https://github.com/lei-hsia/grokking-system-design/stargazers/)
@@ -67,12 +67,12 @@ Contributions are welcome!
 - [System Design Primer: Anki Flashcards](https://github.com/donnemartin/system-design-primer)
 [![GitHub stars](https://img.shields.io/github/stars/donnemartin/system-design-primer.svg?style=social&label=Star&maxAge=2592000)](https://github.com/donnemartin/system-design-primer/stargazers/)
 
-
+</br></br>
 ### Algorithms
 - [Free Algorithm Books](https://github.com/ivanarandac/Free-Algorithm-Books-1)
 [![GitHub stars](https://img.shields.io/github/stars/ivanarandac/Free-Algorithm-Books-1.svg?style=social&label=Star&maxAge=2592000)](https://github.com/ivanarandac/Free-Algorithm-Books-1/stargazers/)
 
-
+</br></br>
 ### Interview / Placements
 - [Must do Questions: GeeksforGeeks](https://www.geeksforgeeks.org/must-do-coding-questions-for-companies-like-amazon-microsoft-adobe/)
 
@@ -83,6 +83,11 @@ Contributions are welcome!
 [![GitHub stars](https://img.shields.io/github/stars/donnemartin/interactive-coding-challenges.svg?style=social&label=Star&maxAge=2592000)](https://github.com/donnemartin/interactive-coding-challenges/stargazers/)
 
 
+###Books
+- [You Don't know JS](https://github.com/getify/You-Dont-Know-JS)
+[![GitHub stars](https://img.shields.io/github/stars/getify/You-Dont-Know-JS.svg?style=social&label=Star&maxAge=2592000)](https://github.com/getify/You-Dont-Know-JS/stargazers/)
+
+</br></br>
 ### ML
 - [ML with Illustrative visuals](https://github.com/madewithml/basics)
 [![GitHub stars](https://img.shields.io/github/stars/madewithml/basics.svg?style=social&label=Star&maxAge=2592000)](https://github.com/madewithml/basics/stargazers/)
@@ -90,11 +95,15 @@ Contributions are welcome!
 - [ML for Cyber Sec](https://github.com/jivoi/awesome-ml-for-cybersecurity)
 [![GitHub stars](https://img.shields.io/github/stars/jivoi/awesome-ml-for-cybersecurity.svg?style=social&label=Star&maxAge=2592000)](https://github.com/jivoi/awesome-ml-for-cybersecurity/stargazers/)
 
-
+</br></br>
 ### Cheatsheets
 - [Markdown](https://github.com/tchapi/markdown-cheatsheet)
 [![GitHub stars](https://img.shields.io/github/stars/tchapi/markdown-cheatsheet.svg?style=social&label=Star&maxAge=2592000)](https://github.com/tchapi/markdown-cheatsheet/stargazers/)
 
+- [Bugbounty](https://github.com/EdOverflow/bugbounty-cheatsheet)
+[![GitHub stars](https://img.shields.io/github/stars/EdOverflow/bugbounty-cheatsheet.svg?style=social&label=Star&maxAge=2592000)](https://github.com/EdOverflow/bugbounty-cheatsheet/stargazers/)
+
+</br></br>
 ### Awesome Repositories
 - [Resume with Github](https://github.com/resume/resume.github.com)
 [![GitHub stars](https://img.shields.io/github/stars/resume/resume.github.com.svg?style=social&label=Star&maxAge=2592000)](https://github.com/resume/resume.github.com/stargazers/)
@@ -105,7 +114,7 @@ Contributions are welcome!
 - [Awesome](https://github.com/sindresorhus/awesome)
 [![GitHub stars](https://img.shields.io/github/stars/sindresorhus/awesome.svg?style=social&label=Star&maxAge=2592000)](https://github.com/sindresorhus/awesome/stargazers/)
 
-
+</br></br>
 ### Hacker Awesome Repositories
 - [PENTESTING BIBLE](https://github.com/blaCCkHatHacEEkr/PENTESTING-BIBLE)
 [![GitHub stars](https://img.shields.io/github/stars/blaCCkHatHacEEkr/PENTESTING-BIBLE.svg?style=social&label=Star&maxAge=2592000)](https://github.com/blaCCkHatHacEEkr/PENTESTING-BIBLE/stargazers/)
