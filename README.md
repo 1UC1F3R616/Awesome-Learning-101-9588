@@ -24,6 +24,12 @@ Contributions are welcome!
 - [100 Days of ML code](https://github.com/Avik-Jain/100-Days-Of-ML-Code)
 [![GitHub stars](https://img.shields.io/github/stars/Avik-Jain/100-Days-Of-ML-Code.svg?style=social&label=Star&maxAge=2592000)](https://github.com/Avik-Jain/100-Days-Of-ML-Code/stargazers/)
 
+- [Software Engineer Roadmap](https://github.com/jwasham/coding-interview-university)
+[![GitHub stars](https://img.shields.io/github/stars/jwasham/coding-interview-university.svg?style=social&label=Star&maxAge=2592000)](https://github.com/jwasham/coding-interview-university/stargazers/)
+
+- [Web Developer Roadmap](https://github.com/kamranahmedse/developer-roadmap)
+[![GitHub stars](https://img.shields.io/github/stars/kamranahmedse/developer-roadmap.svg?style=social&label=Star&maxAge=2592000)](https://github.com/kamranahmedse/developer-roadmap/stargazers/)
+
 
 ### Hacker
 - [Wordlists](https://github.com/ZephrFish/Wordlists)
@@ -58,16 +64,36 @@ Contributions are welcome!
 - [Grokking System Design](https://github.com/lei-hsia/grokking-system-design)
 [![GitHub stars](https://img.shields.io/github/stars/lei-hsia/grokking-system-design.svg?style=social&label=Star&maxAge=2592000)](https://github.com/lei-hsia/grokking-system-design/stargazers/)
 
+- [System Design Primer: Anki Flashcards](https://github.com/donnemartin/system-design-primer)
+[![GitHub stars](https://img.shields.io/github/stars/donnemartin/system-design-primer.svg?style=social&label=Star&maxAge=2592000)](https://github.com/donnemartin/system-design-primer/stargazers/)
+
 
 ### Algorithms
 - [Free Algorithm Books](https://github.com/ivanarandac/Free-Algorithm-Books-1)
 [![GitHub stars](https://img.shields.io/github/stars/ivanarandac/Free-Algorithm-Books-1.svg?style=social&label=Star&maxAge=2592000)](https://github.com/ivanarandac/Free-Algorithm-Books-1/stargazers/)
 
 
+### Interview / Placements
+- [Must do Questions: GeeksforGeeks](https://www.geeksforgeeks.org/must-do-coding-questions-for-companies-like-amazon-microsoft-adobe/)
+
+- [Backend Dev Interview Questions](https://github.com/arialdomartini/Back-End-Developer-Interview-Questions)
+[![GitHub stars](https://img.shields.io/github/stars/arialdomartini/Back-End-Developer-Interview-Questions.svg?style=social&label=Star&maxAge=2592000)](https://github.com/arialdomartini/Back-End-Developer-Interview-Questions/stargazers/)
+
+- [Interactive Py Coding Challenges](https://github.com/donnemartin/interactive-coding-challenges)
+[![GitHub stars](https://img.shields.io/github/stars/donnemartin/interactive-coding-challenges.svg?style=social&label=Star&maxAge=2592000)](https://github.com/donnemartin/interactive-coding-challenges/stargazers/)
+
+
 ### ML
 - [ML with Illustrative visuals](https://github.com/madewithml/basics)
 [![GitHub stars](https://img.shields.io/github/stars/madewithml/basics.svg?style=social&label=Star&maxAge=2592000)](https://github.com/madewithml/basics/stargazers/)
 
+- [ML for Cyber Sec](https://github.com/jivoi/awesome-ml-for-cybersecurity)
+[![GitHub stars](https://img.shields.io/github/stars/jivoi/awesome-ml-for-cybersecurity.svg?style=social&label=Star&maxAge=2592000)](https://github.com/jivoi/awesome-ml-for-cybersecurity/stargazers/)
+
+
+### Cheatsheets
+- [Markdown](https://github.com/tchapi/markdown-cheatsheet)
+[![GitHub stars](https://img.shields.io/github/stars/tchapi/markdown-cheatsheet.svg?style=social&label=Star&maxAge=2592000)](https://github.com/tchapi/markdown-cheatsheet/stargazers/)
 
 ### Awesome Repositories
 - [Resume with Github](https://github.com/resume/resume.github.com)
@@ -75,6 +101,9 @@ Contributions are welcome!
 
 - [Scrape Twitter: twint](https://github.com/twintproject/twint)
 [![GitHub stars](https://img.shields.io/github/stars/twintproject/twint.svg?style=social&label=Star&maxAge=2592000)](https://github.com/twintproject/twint/stargazers/)
+
+- [Awesome](https://github.com/sindresorhus/awesome)
+[![GitHub stars](https://img.shields.io/github/stars/sindresorhus/awesome.svg?style=social&label=Star&maxAge=2592000)](https://github.com/sindresorhus/awesome/stargazers/)
 
 
 ### Hacker Awesome Repositories
@@ -84,9 +113,20 @@ Contributions are welcome!
 - [OSINT Collection](https://github.com/Ph055a/OSINT_Collection)
 [![GitHub stars](https://img.shields.io/github/stars/Ph055a/OSINT_Collection.svg?style=social&label=Star&maxAge=2592000)](https://github.com/Ph055a/OSINT_Collection/stargazers/)
 
+- [OSINT Curated List](https://github.com/jivoi/awesome-osint)
+[![GitHub stars](https://img.shields.io/github/stars/jivoi/awesome-osint.svg?style=social&label=Star&maxAge=2592000)](https://github.com/jivoi/awesome-osint/stargazers/)
+
 - [OSINT Phone Numbers](https://github.com/sundowndev/PhoneInfoga)
 [![GitHub stars](https://img.shields.io/github/stars/sundowndev/PhoneInfoga.svg?style=social&label=Star&maxAge=2592000)](https://github.com/sundowndev/PhoneInfoga/stargazers/)
 
 - [OSINT Social Media: Sherlock](https://github.com/sherlock-project/sherlock)
 [![GitHub stars](https://img.shields.io/github/stars/sherlock-project/sherlock.svg?style=social&label=Star&maxAge=2592000)](https://github.com/sherlock-project/sherlock/stargazers/)
 
+- [Cyber Sec Resources: Lockdoor](https://github.com/SofianeHamlaoui/Lockdoor-Framework)
+[![GitHub stars](https://img.shields.io/github/stars/SofianeHamlaoui/Lockdoor-Framework.svg?style=social&label=Star&maxAge=2592000)](https://github.com/SofianeHamlaoui/Lockdoor-Framework/stargazers/)
+
+- [Hackerone Reports](https://github.com/reddelexc/hackerone-reports)
+[![GitHub stars](https://img.shields.io/github/stars/reddelexc/hackerone-reports.svg?style=social&label=Star&maxAge=2592000)](https://github.com/reddelexc/hackerone-reports/stargazers/)
+
+- [Awesome Hacking](https://github.com/Hack-with-Github/Awesome-Hacking)
+[![GitHub stars](https://img.shields.io/github/stars/Hack-with-Github/Awesome-Hacking.svg?style=social&label=Star&maxAge=2592000)](https://github.com/Hack-with-Github/Awesome-Hacking/stargazers/)
