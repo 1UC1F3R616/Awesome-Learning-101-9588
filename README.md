@@ -8,7 +8,7 @@ I have curated a list of useful learning resources to keep myself busy
 
 Contributions are welcome❕
 
-🌟 and 🍴 it :smile:
+🌟 and 🍴 it with :smile:
 
 <br /><br />
 ### Style Guides
