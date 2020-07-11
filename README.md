@@ -97,6 +97,9 @@ Contributions are welcome❕
 - [ML for Cyber Sec](https://github.com/jivoi/awesome-ml-for-cybersecurity)
 [![GitHub stars](https://img.shields.io/github/stars/jivoi/awesome-ml-for-cybersecurity.svg?style=social&label=Star&maxAge=2592000)](https://github.com/jivoi/awesome-ml-for-cybersecurity/stargazers/)
 
+- [Deep Learning Resource](https://d2l.ai/)
+[![GitHub stars](https://img.shields.io/github/stars/d2l-ai/d2l-en.svg?style=social&label=Star&maxAge=2592000)](https://github.com/d2l-ai/d2l-en/stargazers/)
+
 <br /><br />
 ### Cheatsheets
 - [Markdown](https://github.com/tchapi/markdown-cheatsheet)
@@ -112,6 +115,9 @@ Contributions are welcome❕
 
 - [Scrape Twitter: twint](https://github.com/twintproject/twint)
 [![GitHub stars](https://img.shields.io/github/stars/twintproject/twint.svg?style=social&label=Star&maxAge=2592000)](https://github.com/twintproject/twint/stargazers/)
+
+- [Free for Dev](https://free-for.dev/#/)
+[![GitHub stars](https://img.shields.io/github/stars/ripienaar/free-for-dev.svg?style=social&label=Star&maxAge=2592000)](https://github.com/ripienaar/free-for-dev/stargazers/)
 
 - [Awesome](https://github.com/sindresorhus/awesome)
 [![GitHub stars](https://img.shields.io/github/stars/sindresorhus/awesome.svg?style=social&label=Star&maxAge=2592000)](https://github.com/sindresorhus/awesome/stargazers/)
