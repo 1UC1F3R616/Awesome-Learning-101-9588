@@ -152,3 +152,4 @@ Contributions are welcome❕
 ### Web Links
 - [Check Torrent IP](http://checkmyip.torrentprivacy.com/)
 - [Check ip && Lookup ip: ip.me](https://ip.me/)
+- [Public APIs](https://public-apis.xyz/)
