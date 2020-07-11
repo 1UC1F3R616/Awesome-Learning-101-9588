@@ -119,6 +119,9 @@ Contributions are welcome❕
 - [Free for Dev](https://free-for.dev/#/)
 [![GitHub stars](https://img.shields.io/github/stars/ripienaar/free-for-dev.svg?style=social&label=Star&maxAge=2592000)](https://github.com/ripienaar/free-for-dev/stargazers/)
 
+- [httpbin: ip, APIs](https://github.com/postmanlabs/httpbin)
+[![GitHub stars](https://img.shields.io/github/stars/postmanlabs/httpbin.svg?style=social&label=Star&maxAge=2592000)](https://github.com/postmanlabs/httpbin/stargazers/)
+
 - [Awesome](https://github.com/sindresorhus/awesome)
 [![GitHub stars](https://img.shields.io/github/stars/sindresorhus/awesome.svg?style=social&label=Star&maxAge=2592000)](https://github.com/sindresorhus/awesome/stargazers/)
 
