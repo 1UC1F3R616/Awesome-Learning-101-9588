@@ -147,3 +147,8 @@ Contributions are welcome❕
 
 - [Awesome Hacking](https://github.com/Hack-with-Github/Awesome-Hacking)
 [![GitHub stars](https://img.shields.io/github/stars/Hack-with-Github/Awesome-Hacking.svg?style=social&label=Star&maxAge=2592000)](https://github.com/Hack-with-Github/Awesome-Hacking/stargazers/)
+
+<br /><br />
+### Web Links
+- [Check Torrent IP](http://checkmyip.torrentprivacy.com/)
+- [Check ip && Lookup ip: ip.me](https://ip.me/)
