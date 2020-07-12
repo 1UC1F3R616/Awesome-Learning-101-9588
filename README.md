@@ -122,6 +122,10 @@ Contributions are welcome❕
 - [httpbin: ip, APIs](https://github.com/postmanlabs/httpbin)
 [![GitHub stars](https://img.shields.io/github/stars/postmanlabs/httpbin.svg?style=social&label=Star&maxAge=2592000)](https://github.com/postmanlabs/httpbin/stargazers/)
 
+- [Add GitHub Stats in Markdown](https://github.com/anuraghazra/github-readme-stats)
+[![GitHub stars](https://img.shields.io/github/stars/anuraghazra/github-readme-stats.svg?style=social&label=Star&maxAge=2592000)](https://github.com/anuraghazra/github-readme-stats/stargazers/)
+
+
 - [Awesome](https://github.com/sindresorhus/awesome)
 [![GitHub stars](https://img.shields.io/github/stars/sindresorhus/awesome.svg?style=social&label=Star&maxAge=2592000)](https://github.com/sindresorhus/awesome/stargazers/)
 
