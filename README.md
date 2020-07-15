@@ -84,6 +84,10 @@ Contributions are welcome❕
 - [Free Algorithm Books](https://github.com/ivanarandac/Free-Algorithm-Books-1)
 [![GitHub stars](https://img.shields.io/github/stars/ivanarandac/Free-Algorithm-Books-1.svg?style=social&label=Star&maxAge=2592000)](https://github.com/ivanarandac/Free-Algorithm-Books-1/stargazers/)
 
+### Competative Coding Sites
+- [LeetCode](leetcode.com/)
+- [CodeForces](codeforces.com/)
+
 <br /><br />
 ### JS
 - [You Don't know JS](https://github.com/getify/You-Dont-Know-JS)
@@ -92,6 +96,18 @@ Contributions are welcome❕
 <br /><br />
 ### Cryptography
 - [Cryptohack](https://cryptohack.org/)
+
+<br /><br />
+### Hacking Skills
+- [Root Me: Malware Oriented](https://www.root-me.org)
+- [Hacking Blood: Web Oriented](https://hackinblood.com)
+- [13 Vulnerable Machine](https://www.checkmarx.com/2015/11/06/13-more-hacking-sites-to-legally-practice-your-infosec-skills/)
+
+<br /><br />
+### Hack for Money
+- [Hackerone](https://www.hackerone.com/)
+- [openbugbounty](https://www.openbugbounty.org/)
+- [BugCrowd](https://www.bugcrowd.com/bug-bounty-list/)
 
 <br /><br />
 ### ML
@@ -167,3 +183,4 @@ Contributions are welcome❕
 - [Check ip && Lookup ip: ip.me](https://ip.me/)
 - [Public APIs](https://public-apis.xyz/)
 - [Handy Crypto/Cyber Kit](https://gchq.github.io/CyberChef/)
+- [CTF Helpfuls](https://gist.github.com/1UC1F3R616/2f448511a61a71f713fcdeb681d032a8)
