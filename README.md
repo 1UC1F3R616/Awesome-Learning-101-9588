@@ -79,6 +79,10 @@ Contributions are welcome❕
 - [CodeForces](codeforces.com/)
 
 <br /><br />
+### Competitive Books
+- [Interview Prep](https://github.com/1UC1F3R616/MyStorage/tree/master/Interview)
+
+<br /><br />
 ### Hacker
 - [Wordlists](https://github.com/ZephrFish/Wordlists)
 [![GitHub stars](https://img.shields.io/github/stars/ZephrFish/Wordlists.svg?style=social&label=Star&maxAge=2592000)](https://github.com/ZephrFish/Wordlists/stargazers/)
@@ -143,6 +147,10 @@ Contributions are welcome❕
 <br /><br />
 ### Hacking Articles
 - [Hacking Articles](https://www.hackingarticles.in/web-penetration-testing/)
+
+<br /><br />
+### Hacking Books
+- [Hacking101](https://github.com/1UC1F3R616/MyStorage/blob/master/Hacking/%5BPeter_Yaworski%5DWeb_Hacking_101.pdf)
 
 <br /><br />
 ### Pentesting Special
