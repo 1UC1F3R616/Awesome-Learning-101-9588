@@ -74,9 +74,9 @@ Contributions are welcome❕
 [![GitHub stars](https://img.shields.io/github/stars/ivanarandac/Free-Algorithm-Books-1.svg?style=social&label=Star&maxAge=2592000)](https://github.com/ivanarandac/Free-Algorithm-Books-1/stargazers/)
 
 <br /><br />
-### Competative Coding Sites
-- [LeetCode](leetcode.com/)
-- [CodeForces](codeforces.com/)
+### Competitive Coding Sites
+- [LeetCode](https://leetcode.com/)
+- [CodeForces](https://codeforces.com/)
 
 <br /><br />
 ### Competitive Books
