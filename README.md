@@ -130,19 +130,19 @@ Contributions are welcome❕
 
 <br /><br />
 ### Insecure Web Apps
-- [webGOAT](https://owasp.org/www-project-webgoat/)
-- [bWAPP](http://www.itsecgames.com/)
-- [DVWA](http://www.dvwa.co.uk/)
-
-<br /><br />
-### Hacking Articles
-- [Hacking Articles](https://www.hackingarticles.in/web-penetration-testing/)
+- [ ] [webGOAT](https://owasp.org/www-project-webgoat/)
+- [ ] [bWAPP](http://www.itsecgames.com/)
+- [ ] [DVWA](http://www.dvwa.co.uk/)
+- [ ] [OWASP: Juice Shop](https://owasp.org/www-project-juice-shop/): Heroku Hosted
 
 <br /><br />
 ### Pentest Labs
 - [PortSwigger](https://portswigger.net/web-security)
 - [vulnhub](https://www.vulnhub.com/)
 
+<br /><br />
+### Hacking Articles
+- [Hacking Articles](https://www.hackingarticles.in/web-penetration-testing/)
 
 <br /><br />
 ### Pentesting Special
