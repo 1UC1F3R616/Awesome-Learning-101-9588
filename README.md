@@ -90,6 +90,10 @@ Contributions are welcome❕
 [![GitHub stars](https://img.shields.io/github/stars/getify/You-Dont-Know-JS.svg?style=social&label=Star&maxAge=2592000)](https://github.com/getify/You-Dont-Know-JS/stargazers/)
 
 <br /><br />
+### Cryptography
+https://cryptohack.org/
+
+<br /><br />
 ### ML
 - [ML with Illustrative visuals](https://github.com/madewithml/basics)
 [![GitHub stars](https://img.shields.io/github/stars/madewithml/basics.svg?style=social&label=Star&maxAge=2592000)](https://github.com/madewithml/basics/stargazers/)
@@ -162,3 +166,4 @@ Contributions are welcome❕
 - [Check Torrent IP](http://checkmyip.torrentprivacy.com/)
 - [Check ip && Lookup ip: ip.me](https://ip.me/)
 - [Public APIs](https://public-apis.xyz/)
+- [Handy Crypto/Cyber Kit](https://gchq.github.io/CyberChef/)
