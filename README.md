@@ -91,7 +91,7 @@ Contributions are welcome❕
 
 <br /><br />
 ### Cryptography
-https://cryptohack.org/
+- [Cryptohack](https://cryptohack.org/)
 
 <br /><br />
 ### ML
