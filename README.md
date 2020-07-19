@@ -4,7 +4,7 @@
   <img src="https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg"> <img src="https://img.shields.io/github/stars/1UC1F3R616/Learning-101?style=social"> <img src="https://img.shields.io/github/forks/1UC1F3R616/Learning-101?style=social">
 </p>
 
-Curated list of useful learning resources to keep myself busy
+[Curated list of useful learning resources to keep myself busy](https://1uc1f3r616.github.io/Pentesting-101/)
 
 Mostly Web Dev and Web Pentest
 
