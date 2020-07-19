@@ -40,6 +40,16 @@ Contributions are welcome❕
 [![GitHub stars](https://img.shields.io/github/stars/getify/You-Dont-Know-JS.svg?style=social&label=Star&maxAge=2592000)](https://github.com/getify/You-Dont-Know-JS/stargazers/)
 
 <br /><br />
+### Django
+- [Starting with offical Docs](https://docs.djangoproject.com/en/2.2/intro/tutorial01/) (3 days)
+- [7 Projects](https://books.agiliq.com/projects/djenofdjango/en/latest/) (3 weeks)
+- [Multi Tenant App](https://books.agiliq.com/projects/django-multi-tenant/en/latest/) (5 days)
+
+<br /><br />
+### DRF
+- [Building APIs with Django Book](https://books.agiliq.com/projects/django-api-polls-tutorial/en/latest/) (1 week)
+
+<br /><br />
 ### ML
 - [ML with Illustrative visuals](https://github.com/madewithml/basics)
 [![GitHub stars](https://img.shields.io/github/stars/madewithml/basics.svg?style=social&label=Star&maxAge=2592000)](https://github.com/madewithml/basics/stargazers/)
