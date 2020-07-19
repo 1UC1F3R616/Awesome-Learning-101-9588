@@ -221,3 +221,7 @@ Contributions are welcome❕
 <br /><br />
 ### Handy Gists
 - [Frontend Handy](https://gist.github.com/1UC1F3R616/a2270c7ab11ca57de31fba9032e0be12)
+
+<br /><br />
+### Hosted
+- [OWASP Juice Shop](https://kush-owasp.herokuapp.com/#/)
