@@ -12,7 +12,7 @@ Contributions are welcome❕
 
 🌟 and 🍴 it with 💜
 
-[Hacking](https://1uc1f3r616.github.io/Pentesting-101/) | [Competitive-programming](https://1uc1f3r616.github.io/Competitive-programming-101/)
+[Pentesting](https://1uc1f3r616.github.io/Pentesting-101/) | [Competitive-programming](https://1uc1f3r616.github.io/Competitive-programming-101/)
 
 <br /><br />
 ### Style Guides
