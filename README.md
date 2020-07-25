@@ -43,9 +43,10 @@ Contributions are welcome❕
 
 <br /><br />
 ### Django
-- [Starting with offical Docs](https://docs.djangoproject.com/en/2.2/intro/tutorial01/) (3 days)
-- [7 Projects](https://books.agiliq.com/projects/djenofdjango/en/latest/) (3 weeks)
+- [Starting with offical Docs](https://docs.djangoproject.com/en/2.2/intro/tutorial01/) (2 days)
+- [7 Projects](https://books.agiliq.com/projects/djenofdjango/en/latest/) (3 Days)
 - [Multi Tenant App](https://books.agiliq.com/projects/django-multi-tenant/en/latest/) (5 days)
+- [Django ORM CookBook](https://books.agiliq.com/projects/django-orm-cookbook/en/latest/) (2 Days)
 
 <br /><br />
 ### DRF
