@@ -151,11 +151,14 @@ Contributions are welcome❕
 - [ ] [bWAPP](http://www.itsecgames.com/)
 - [ ] [DVWA](http://www.dvwa.co.uk/)
 - [ ] [OWASP: Juice Shop](https://owasp.org/www-project-juice-shop/): Heroku Hosted
+- [ ] [XVWA]
 
 <br /><br />
 ### Pentest Labs
 - [PortSwigger](https://portswigger.net/web-security)
 - [vulnhub](https://www.vulnhub.com/)
+- [tryhackme](https://tryhackme.com)
+- [hackthebox](hackthebox.eu/)
 
 <br /><br />
 ### Hacking Articles
