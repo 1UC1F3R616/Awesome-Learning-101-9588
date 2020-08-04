@@ -95,38 +95,12 @@ Contributions are welcome❕
 ### Competitive Books
 - [Interview Prep](https://github.com/1UC1F3R616/MyStorage/tree/master/Interview)
 
-<br /><br />
-### Hacker
-- [Wordlists](https://github.com/ZephrFish/Wordlists)
-[![GitHub stars](https://img.shields.io/github/stars/ZephrFish/Wordlists.svg?style=social&label=Star&maxAge=2592000)](https://github.com/ZephrFish/Wordlists/stargazers/)
-
-- [Wordlists 2](https://github.com/jeanphorn/wordlist)
-[![GitHub stars](https://img.shields.io/github/stars/jeanphorn/wordlist.svg?style=social&label=Star&maxAge=2592000)](https://github.com/jeanphorn/wordlist/stargazers/)
-
-- [Wordlist DB && Password Special](https://github.com/duyet/bruteforce-database)
-[![GitHub stars](https://img.shields.io/github/stars/duyet/bruteforce-database.svg?style=social&label=Star&maxAge=2592000)](https://github.com/duyet/bruteforce-database/stargazers/)
-
-- [Sql Injection Payloads](https://github.com/payloadbox/sql-injection-payload-list)
-[![GitHub stars](https://img.shields.io/github/stars/payloadbox/sql-injection-payload-list.svg?style=social&label=Star&maxAge=2592000)](https://github.com/payloadbox/sql-injection-payload-list/stargazers/)
-
-- [Google Dork](https://github.com/ZephrFish/GoogD0rker)
-[![GitHub stars](https://img.shields.io/github/stars/ZephrFish/GoogD0rker.svg?style=social&label=Star&maxAge=2592000)](https://github.com/ZephrFish/GoogD0rker/stargazers/)
-
-- [XSS Payloads](https://github.com/s0md3v/AwesomeXSS)
-[![GitHub stars](https://img.shields.io/github/stars/s0md3v/AwesomeXSS.svg?style=social&label=Star&maxAge=2592000)](https://github.com/s0md3v/AwesomeXSS/stargazers/)
-
-- [XSS Payloads 2](https://github.com/payloadbox/xss-payload-list)
-[![GitHub stars](https://img.shields.io/github/stars/payloadbox/xss-payload-list.svg?style=social&label=Star&maxAge=2592000)](https://github.com/payloadbox/xss-payload-list/stargazers/)
-
-- [XSS Payloads: Markdown](https://github.com/cujanovic/Markdown-XSS-Payloads)
-[![GitHub stars](https://img.shields.io/github/stars/cujanovic/Markdown-XSS-Payloads.svg?style=social&label=Star&maxAge=2592000)](https://github.com/cujanovic/Markdown-XSS-Payloads/stargazers/)
-
-- [Open Redirect Payloads](https://github.com/cujanovic/Open-Redirect-Payloads)
-[![GitHub stars](https://img.shields.io/github/stars/cujanovic/Open-Redirect-Payloads.svg?style=social&label=Star&maxAge=2592000)](https://github.com/cujanovic/Open-Redirect-Payloads/stargazers/)
+-----------------------------------------------------------------------------------------------------
 
 <br /><br />
 ### Cryptography
 - [Cryptohack](https://cryptohack.org/)
+- [Handy Crypto/Cyber Kit](https://gchq.github.io/CyberChef/)
 
 <br /><br />
 ### Hacking Skills
@@ -145,14 +119,16 @@ Contributions are welcome❕
 ### CTF
 - [Hacker101](https://ctf.hacker101.com/)
 - [CTFlearn: All in one](https://ctflearn.com)
+- [ctfTime Competitions & Ranking](ctftime.org/)
+- [CTF Helpfuls](https://gist.github.com/1UC1F3R616/2f448511a61a71f713fcdeb681d032a8)
 
 <br /><br />
 ### Insecure Web Apps
 - [ ] [webGOAT](https://owasp.org/www-project-webgoat/)
-- [ ] [bWAPP](http://www.itsecgames.com/)
-- [ ] [DVWA](http://www.dvwa.co.uk/)
-- [ ] [OWASP: Juice Shop](https://owasp.org/www-project-juice-shop/): Heroku Hosted
-- [ ] [XVWA]
+- [x] [bWAPP](http://www.itsecgames.com/)
+- [x] [DVWA](http://www.dvwa.co.uk/)
+- [x] [OWASP: Juice Shop](https://owasp.org/www-project-juice-shop/): Heroku Hosted
+- [x] [XVWA]
 
 <br /><br />
 ### Pentest Labs
@@ -169,9 +145,6 @@ Contributions are welcome❕
 ### Hacking Books
 - [Hacking101](https://github.com/1UC1F3R616/MyStorage/blob/master/Hacking/%5BPeter_Yaworski%5DWeb_Hacking_101.pdf)
 
-<br /><br />
-### Pentesting Special
-- [Pentesting Standards](http://www.pentest-standard.org/index.php/Main_Page)
 
 <br /><br />
 ### Cheatsheets
@@ -212,8 +185,8 @@ Contributions are welcome❕
 - [Check Torrent IP](http://checkmyip.torrentprivacy.com/)
 - [Check ip && Lookup ip: ip.me](https://ip.me/)
 - [Public APIs](https://public-apis.xyz/)
-- [Handy Crypto/Cyber Kit](https://gchq.github.io/CyberChef/)
-- [CTF Helpfuls](https://gist.github.com/1UC1F3R616/2f448511a61a71f713fcdeb681d032a8)
+
+----------------------------------------------------------------------------------------------------------------
 
 <br /><br />
 ### Awesome Repositories
@@ -239,6 +212,3 @@ Contributions are welcome❕
 ### Handy Gists
 - [Frontend Handy](https://gist.github.com/1UC1F3R616/a2270c7ab11ca57de31fba9032e0be12)
 
-<br /><br />
-### Hosted
-- [OWASP Juice Shop](https://kush-owasp.herokuapp.com/#/)
