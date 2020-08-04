@@ -139,6 +139,7 @@ Contributions are welcome❕
 - [Hackerone](https://www.hackerone.com/)
 - [openbugbounty](https://www.openbugbounty.org/)
 - [BugCrowd](https://www.bugcrowd.com/bug-bounty-list/)
+- [YesWeHack](https://yeswehack.com)
 
 <br /><br />
 ### CTF
