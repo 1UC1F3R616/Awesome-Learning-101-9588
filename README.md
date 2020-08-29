@@ -129,6 +129,7 @@ Contributions are welcome❕
 - [x] [DVWA](http://www.dvwa.co.uk/)
 - [x] [OWASP: Juice Shop](https://owasp.org/www-project-juice-shop/): Heroku Hosted
 - [x] [XVWA]
+- [ ] [Hackazon](https://github.com/rapid7/hackazon)
 
 <br /><br />
 ### Pentest Labs
